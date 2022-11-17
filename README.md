@@ -1,5 +1,4 @@
 # Web_scraping_OpenSouqWebsite_PYTHON_ipynb
-**get all images from imgflip.com**
 
 
 import requests
